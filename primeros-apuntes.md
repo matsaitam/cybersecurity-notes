@@ -9,5 +9,6 @@ LIKE (=) = SELECCIONA UNA SALIDA DE UNA TABLA ~ SELECT THE OUTPUT FROM A TABLE I
       SELECT*
       FROM houses
       ORDER BY colors
+      WHERE houses LIKE 'red' 
       
               
